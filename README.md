@@ -34,8 +34,3 @@ It provides both **text translation** and **audio playback/download** of the tra
 - **NLP Models:** Hugging Face MarianMT (`Helsinki-NLP/opus-mt-xx-yy`)  
 - **Text-to-Speech:** gTTS  
 - **Frontend:** HTML (Jinja2 Templates)  
-
----
-
-## 📂 Project Structure  
-
